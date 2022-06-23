@@ -1,0 +1,6 @@
+# this data file was made with 
+# Chains E,F,G,H are on residues 50-69 of chains A through D (present only in the C8 cage models!)
+# Chains I,J,K,L are on residues 10-29 of chains A through D (present in both C4 and C8 cage models)
+# this script generates CV's for the shotgun simulation restarts
+# [frame, distance along z cordinate of protein (0 is center), distance protein is away from the center of the top of the cage in the plane]
+0,57.972744,8.915852
